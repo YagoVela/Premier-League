@@ -24,8 +24,7 @@ The project was developed for the Mobile Applications course as a work during co
 Developed layout
 
 <div align="center">
-   <img alt="home" src="./src/assets/home.jpeg" width="40%"/>
-  <img alt="details" src="./src/assets/details.jpeg" width="40%"/>
+  <img alt="home" src="./src/assets/premier-league-gif.gif" width="40%"/>
 </div>
 
 
