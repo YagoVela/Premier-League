@@ -36,6 +36,7 @@ The following tools were used in the construction of the project:
 - [TypeScript][TypeScript]
 - [Styled Components][StyledComponents]
 - [react-native-animatable][react-native-animatable]
+- [Expo][expo]
 
 ## 🚀 Getting Started
 
@@ -75,3 +76,4 @@ Made by Yago Vela 👋🏽 [Entre em contato!](https://github.com/YagoVela)
 [Typescript]: https://www.typescriptlang.org/
 [StyledComponents]: https://styled-components.com/
 [react-native-animatable]: https://github.com/oblador/react-native-animatable
+[expo]:https://expo.dev/
